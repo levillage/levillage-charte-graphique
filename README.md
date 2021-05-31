@@ -1,3 +1,5 @@
+Charte graphique de "Le Village". L'ensemble des sources graphiques sont dans le fichier <logo-levillage.afdesign>. Fichier au format [Affinity Designer](https://affinity.serif.com/fr/designer/).
+
 # logo
 
 ## Logo Foncé
@@ -11,10 +13,6 @@
 ## Logo Noir&Blanc Foncé
 
 ![Logo Noir&Blanc Foncé](logo-levillage-wb-dark.svg)
-
-## Logo Noir&Blanc Clair
-
-![Logo Noir&Blanc Clair](logo-levillage-wb-light.svg)
 
 ## Logo Noir&Blanc Clair
 
