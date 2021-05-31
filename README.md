@@ -1,6 +1,6 @@
 Charte graphique de "Le Village". L'ensemble des sources graphiques sont dans le fichier <logo-levillage.afdesign>. Fichier au format [Affinity Designer](https://affinity.serif.com/fr/designer/).
 
-# logo
+# Logo
 
 ## Logo Foncé
 
