@@ -24,6 +24,14 @@ L'ensemble des sources graphiques sont dans le fichier [logo-levillage.afdesign]
 
 ![Bannière](svg/banner-levillage.svg)
 
+## Bannière Noir&Blanc Foncée
+
+![Bannière](svg/banner-levillage-wb-dark.svg)
+
+## Bannière Noir&Blanc Claire
+
+![Bannière](svg/banner-levillage-wb-light.svg)
+
 # Avatar
 
 ## Avatar Cercle
