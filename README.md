@@ -22,7 +22,13 @@ L'ensemble des sources graphiques sont dans le fichier [logo-levillage.afdesign]
 
 # Bannière
 
-![Bannière](svg/banner-levillage.svg)
+## Bannière Foncée
+
+![Bannière](svg/banner-levillage-dark.svg)
+
+## Bannière Claire
+
+![Bannière](svg/banner-levillage-light.svg)
 
 ## Bannière Noir&Blanc Foncée
 
