@@ -55,3 +55,11 @@ L'ensemble des sources graphiques sont dans le fichier [logo-levillage.afdesign]
 # Favicon
 
 ![Favicon](svg/favicon-levillage.svg)
+
+# Schémas
+
+![Economique](svg/diagram-eco.svg)
+![Bienveillance](svg/diagram-bienveillance.svg)
+![Collaboratif](svg/diagram-collaboratif.svg)
+![Local](svg/diagram-local.svg)
+![Pluridisciplinaire](svg/diagram-pluridsciplinaire.svg)
