@@ -58,8 +58,8 @@ L'ensemble des sources graphiques sont dans le fichier [logo-levillage.afdesign]
 
 # Schémas
 
-![Economique](svg/diagram-eco.svg)
-![Bienveillance](svg/diagram-bienveillance.svg)
-![Collaboratif](svg/diagram-collaboratif.svg)
-![Local](svg/diagram-local.svg)
-![Pluridisciplinaire](svg/diagram-pluridsciplinaire.svg)
+![Economique](svg/diagrams-eco.svg)
+![Bienveillance](svg/diagrams-bienveillance.svg)
+![Collaboratif](svg/diagrams-collaboratif.svg)
+![Local](svg/diagrams-local.svg)
+![Pluridisciplinaire](svg/diagrams-pluridsciplinaire.svg)
