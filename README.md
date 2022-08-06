@@ -2,6 +2,8 @@
 
 L'ensemble des sources graphiques sont dans le fichier [logo-levillage.afdesign](src/logo-levillage.afdesign). Fichier au format [Affinity Designer](https://affinity.serif.com/fr/designer/).
 
+Voir [la palette](https://coolors.co/palette/ef476f-ffd166-06d6a0-118ab2-073b4c) de couleur sur Coolors.
+
 # Logo
 
 ## Logo Foncé
